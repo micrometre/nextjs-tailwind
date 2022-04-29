@@ -34,7 +34,6 @@ const features = [
 ];
 export function Hero() {
   return (
-    <Layout>
       <div className="py-4 bg-white">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="lg:text-center">
@@ -69,7 +68,6 @@ export function Hero() {
           </div>
         </div>
       </div>
-    </Layout>
   );
 }
 
