@@ -6,6 +6,7 @@ function TestPage() {
   return (
     <Layout>
       <Navbar />
+      <Logo />
       <Hero />
     </Layout>
   );
